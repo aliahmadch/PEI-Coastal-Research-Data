@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/PEI-Coastal-Monitor-BE/.venv313/bin/python"
+}

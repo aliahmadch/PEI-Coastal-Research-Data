@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+init.env.example
+Code-PEI-Coastal-Monitor/PEI-Coastal-Monitor-BE/api/ee-*.json

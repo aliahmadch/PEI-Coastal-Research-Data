@@ -1,0 +1,4 @@
+patch,value,value_col,__file__
+central,4.217738955452887,OverallChange_km2,NDWI_Overall_Change_2019_2025_central.csv
+eastern,0.641055479813474,OverallChange_km2,NDWI_Overall_Change_2019_2025_easternmost.csv
+western,-0.1440662499010159,OverallChange_km2,NDWI_Overall_Change_2019_2025_westernmost.csv

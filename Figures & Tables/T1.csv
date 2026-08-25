@@ -1,0 +1,11 @@
+﻿Category,Parameter,Value,Importance
+Data Source,Satellite,Sentinel-2 (ESA),"Provides high-resolution multispectral imagery suitable for coastal monitoring (Vos et al., 2019a)"
+,Product,S2-SR Harmonized,"Surface reflectance product ensures radiometric consistency (Tesfaye & Breuer, 2024)"
+,Platform,Google Earth Engine,"Enables large-scale cloud processing and temporal analysis (Gorelick et al., 2017b)"
+Temporal,Years,2019-2025,Multi-year dataset enables detection of long-term shoreline trends
+,Seasonal Window,May-October,Minimizes snow/ice interference and ensures seasonal consistency
+Pre-Processing,Cloud Mask,SCL mask,"Removes clouds, shadows, and snow for accurate classification (Kita et al., 2023)"
+,Composite,Median,Reduces noise and improves inter-annual stability
+Bands,"B3, B8","Green (560 nm), Near-Infrared (842 nm)","B3 is sensitive to water reflectance; essential for NDWI calculation and B8 differentiates land from water due to strong water absorption  (McFeeters, 1996b)"
+Spatial,Resolution,10 m,Captures shoreline variability while maintaining regional coverage
+Classification,Threshold,0.05,Provides stable separation of land and water along coastlines

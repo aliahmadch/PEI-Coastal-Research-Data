@@ -1,0 +1,13 @@
+Technique used for transect selection
+- Baseline shoreline for each coastal zone was extracted from an annual Sentinel-2 NDWI composite using the 2019 season (May 1 to Oct 31).
+- Shoreline extraction used NDWI <= 0.05 as land and NDWI > 0.05 as water. The resulting land-water boundary was converted to a shoreline line.
+- Shoreline-perpendicular transects were generated along the shoreline with 500 m spacing and 200 m length. The script used a maximum of 80 transects per zone.
+- For each transect, the shoreline position was estimated by sampling NDWI values along the transect and locating the water-land transition.
+- Yearly comparisons were computed from 2019-2025 annual pairs and a 2019-2025 net summary was also produced.
+
+Transect counts per zone
+- centralStudyline: 80 transects
+- easternStudyline: 80 transects
+- easternMostStudyline: 80 transects
+- westernStudyline: 80 transects
+- westernMostStudyline: 80 transects

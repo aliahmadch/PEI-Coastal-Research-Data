@@ -1,0 +1,15 @@
+site_name,reference_acquisition_date,sentinel_acquisition_date,sentinel_day_offset,transect_id,signed_difference_m,absolute_distance_m,sentinel_position,comparison_crs
+Poppycock Lane,2024-09-24,2024-09-04,-20,1,6.177,6.177,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,2,-3.09,3.09,landward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,3,-2.014,2.014,landward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,4,1.049,1.049,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,5,2.449,2.449,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,6,11.006,11.006,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,7,6.713,6.713,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,8,10.395,10.395,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,9,5.956,5.956,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,10,4.901,4.901,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,11,5.706,5.706,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,12,5.992,5.992,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,13,13.436,13.436,seaward,EPSG:2954
+Poppycock Lane,2024-09-24,2024-09-04,-20,14,76.016,76.016,seaward,EPSG:2954

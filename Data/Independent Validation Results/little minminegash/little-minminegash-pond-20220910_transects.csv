@@ -1,0 +1,8 @@
+site_name,reference_acquisition_date,sentinel_acquisition_date,sentinel_day_offset,transect_id,signed_difference_m,absolute_distance_m,sentinel_position,comparison_crs
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,1,37.412,37.412,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,2,46.571,46.571,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,3,53.343,53.343,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,4,73.499,73.499,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,6,88.852,88.852,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,7,96.428,96.428,seaward,EPSG:2954
+Little Minminegash Pond,2022-09-12,2022-09-10,-2,8,74.577,74.577,seaward,EPSG:2954

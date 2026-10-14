@@ -1,0 +1,4 @@
+site_name,reference_acquisition_date,sentinel_acquisition_date,sentinel_day_offset,transect_id,signed_difference_m,absolute_distance_m,sentinel_position,comparison_crs
+Poppycock Lane,2022-09-12,2022-09-10,-2,11,33.45,33.45,seaward,EPSG:2954
+Poppycock Lane,2022-09-12,2022-09-10,-2,12,14.718,14.718,seaward,EPSG:2954
+Poppycock Lane,2022-09-12,2022-09-10,-2,13,42.713,42.713,seaward,EPSG:2954

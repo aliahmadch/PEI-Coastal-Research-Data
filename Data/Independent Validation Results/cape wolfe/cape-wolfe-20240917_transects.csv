@@ -1,0 +1,6 @@
+site_name,reference_acquisition_date,sentinel_acquisition_date,sentinel_day_offset,transect_id,signed_difference_m,absolute_distance_m,sentinel_position,comparison_crs
+Cape Wolfe,2024-09-24,2024-09-17,-7,1,39.854,39.854,seaward,EPSG:2954
+Cape Wolfe,2024-09-24,2024-09-17,-7,2,27.024,27.024,seaward,EPSG:2954
+Cape Wolfe,2024-09-24,2024-09-17,-7,3,30.66,30.66,seaward,EPSG:2954
+Cape Wolfe,2024-09-24,2024-09-17,-7,4,28.981,28.981,seaward,EPSG:2954
+Cape Wolfe,2024-09-24,2024-09-17,-7,5,32.375,32.375,seaward,EPSG:2954

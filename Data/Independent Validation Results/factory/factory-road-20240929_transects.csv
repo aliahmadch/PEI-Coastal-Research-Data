@@ -1,0 +1,6 @@
+site_name,reference_acquisition_date,sentinel_acquisition_date,sentinel_day_offset,transect_id,signed_difference_m,absolute_distance_m,sentinel_position,comparison_crs
+Factory Road,2024-09-24,2024-09-29,5,1,28.652,28.652,seaward,EPSG:2954
+Factory Road,2024-09-24,2024-09-29,5,3,25.671,25.671,seaward,EPSG:2954
+Factory Road,2024-09-24,2024-09-29,5,4,26.44,26.44,seaward,EPSG:2954
+Factory Road,2024-09-24,2024-09-29,5,5,28.897,28.897,seaward,EPSG:2954
+Factory Road,2024-09-24,2024-09-29,5,6,55.863,55.863,seaward,EPSG:2954

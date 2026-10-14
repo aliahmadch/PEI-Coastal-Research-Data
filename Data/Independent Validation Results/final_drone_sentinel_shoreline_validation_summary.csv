@@ -1,0 +1,9 @@
+Site,Drone_Sentinel_Date,Valid_Transects,MAE_m,Median_Absolute_Error_m,RMSE_m,P95_Absolute_Error_m
+Cape Wolfe,2022-09-10,5,24.181,22.230,24.446,29.711
+Cape Wolfe,2024-09-17,5,31.779,30.660,32.084,38.359
+Factory Road,2022-09-10,6,34.622,33.257,35.123,43.707
+Factory Road,2024-09-29,5,33.104,28.652,35.028,50.470
+Little Minminegash Pond,2022-09-10,7,67.240,73.499,70.276,94.155
+Little Minminegash Pond,2024-09-29,7,61.179,83.533,68.821,93.685
+Poppycock Lane,2022-09-10,3,30.294,33.450,32.455,41.787
+Poppycock Lane,2024-09-04,14,11.064,5.974,21.414,35.339
